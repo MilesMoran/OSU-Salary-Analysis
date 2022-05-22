@@ -1,0 +1,31 @@
+DEFINITIONS:
+
+ADJ SERVICE DATE:
+For classified employees, this is the initial date of employment into a classified or unclassified position with OUS. If the employee was employed by OUS or another state agency in a classified position prior to July 1, 1996, this date reflects prior state service.
+
+APPT PERCENT:
+Indicates the percentage of full time the position uses
+
+APPT:
+A description associated with the specific Position Appt Type Code.
+
+FIRST HIRED:
+The date the employee first started with OSU in any position.
+
+FULL-TIME MONTHLY SALARY:
+The monthly rate corresponding to a Salary Grade and Step
+
+HOME ORGN:
+The organization code associated with the department the employee reports to.  If the employee has more than one job the Home Org is the org associated with the job which provides the highest level of benefits and leave eligibility.
+
+HOURLY RATE:
+The hourly rate of pay corresponding to a Salary Grade and Step
+
+JOB ORGN:
+Organization code to which this job reports; the department responsible for time or leave entry on this job
+
+JOB TITLE:
+For classified employees job title reflects the position class title.  For unclassified employees this reflects the working title.
+
+JOB TYPE:
+Job type coded as P (primary), S (secondary) and O (overload).

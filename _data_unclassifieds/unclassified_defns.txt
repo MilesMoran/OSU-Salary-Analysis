@@ -1,0 +1,40 @@
+DEFINITIONS:
+
+ADJ SERVICE DATE:
+For classified employees, this is the initial date of employment into a classified or unclassified position with OUS. If the employee was employed by OUS or another state agency in a classified position prior to July 1, 1996, this date reflects prior state service.
+
+ANNUAL SALARY RATE:
+This is the salary equivalent of this job at full time (100% appointment).
+
+APPT BASIS:
+The number of months on the appointment that the employee will work during a full year.
+
+APPT BEGIN DATE:
+The date the job originally started. This date is not changed when a job is reactivated after summer leave
+
+APPT END DATE:
+The date the job is scheduled to end.  If null, the job is indefinite.
+
+APPT PERCENT:
+Indicates the percentage of full time the position uses
+
+FIRST HIRED:
+The date the employee first started with OSU in any position.
+
+HOME ORGN:
+The organization code associated with the department the employee reports to.  If the employee has more than one job the Home Org is the org associated with the job which provides the highest level of benefits and leave eligibility.
+
+JOB ORGN:
+Organization code to which this job reports; the department responsible for time or leave entry on this job
+
+JOB TITLE:
+For classified employees job title reflects the position class title.  For unclassified employees this reflects the working title.
+
+JOB TYPE:
+Job type coded as P (primary), S (secondary) and O (overload).
+
+RANK:
+Descriptive title associated with the Faculty Rank Code. Example: Professor
+
+RANK EFFECTIVE DATE:
+The date the faculty member achieved the current rank
