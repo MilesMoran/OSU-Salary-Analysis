@@ -79,30 +79,7 @@ ggplot(employees.teachers) +
 <!----------------------------------------------------------------------------->
 
 \newpage
-#### Q2: How do salaries compare within the statistics department? 
-
-\
-
-```{r}
-library(ggrepel)
-
-employees.stats <- (
-    employees
-    %>% filter(str_detect(JobOrgn, "Statistics")) 
-    %>% filter(str_detect(JobTitle, "(Emeritus)|(Courtesy)", negate=TRUE))
-)
-
-ggplot(employees.stats, aes(x=FirstHired, y=AnnSalary)) + 
-    geom_point() + 
-    geom_text_repel(aes(label=LastName), seed=1, force=50,
-                    nudge_x = 1, nudge_y = 10000,
-                    segment.color="red")
-```
-
-<!----------------------------------------------------------------------------->
-
-\newpage
-#### Q3: What is the distribution of salary for JUST instructors on 9mo appts? 
+#### Q2: What is the distribution of salary for JUST instructors on 9mo appts? 
 
 \
 
